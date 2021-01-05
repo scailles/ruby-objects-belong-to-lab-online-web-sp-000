@@ -7,8 +7,6 @@ class Post
 
   def initialize
     @title = title
-    @author
-    author.name
   end
   
 end
