@@ -1,8 +1,10 @@
 class Post
   
-  attr_accessor :title
+  attr_accessor
   
-  attr_reader :author
+  attr_reader
+  
+ 
   
   
   def initalize
